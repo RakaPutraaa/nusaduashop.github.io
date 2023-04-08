@@ -41,9 +41,10 @@
     padding: 20px 20px;
     background-color: whitesmoke;
     font-size: 12px;
+    text-align: justify;
 }
 .content-mid img {
-    height: 50px;
+    height: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -53,23 +54,23 @@
     box-shadow: -2px 4px 27px -5px rgba(0,0,0,0.49);*/
 }
 .content-mid .part {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .content-mid .p-left {
-    margin-left: 120px;
+    margin-left: 160px;
 }
 .content-mid .p-right {
-    margin-right: 120px
+    margin-right: 160px;
 }
 
 .content-mid .img-content-left {
-    width: 100px;
+    width: 150px;
     float: left;
 }
 
 .content-mid .img-content-right {
-    width: 100px;
+    width: 150px;
     float: right;
 }
 
